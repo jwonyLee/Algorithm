@@ -1,4 +1,5 @@
 # DFS(깊이 우선 탐색)
+
 ```python
 graph = {
     1: [2, 3, 4],
@@ -50,3 +51,33 @@ discovered = [1, 4, 3, 5, 7, 6, 2]
 
 재귀 DFS는 사전식 순서로 방문, 반복 DFS는 역순으로 방문  
 → 스택으로 구현하다 보니 가장 마지막에 삽입된 노드부터 꺼내서 반복하게 되기 때문
+
+## 재귀 in 알고리즘 문제 해결 전략
+```swift
+var adj = [[Int]]()
+var visited = [Bool]()
+func dfs(here: Int) {
+    print("DFS visits \(here)")
+    visited[here] = true
+    // 모든 인접 정점을 순회하면서
+    for i in 0..<adj[here].count {
+        let there = adj[here][i]
+        // 아직 방문한 적 없다면 방문한다.
+        if !visited[there] {
+            dfs(here: there)
+        }
+    }
+    // 더이상 방문할 정점이 없으니, 재귀 호출을 종료하고 이전 정점으로 돌아간다.
+}
+
+// 모든 정점을 방문한다.
+func dfsAll() {
+    visited = Array(repeating: false, count: adj.count)
+    // 모든 정점을 순회하면서, 아직 방문한 적 없으면 방문한다.
+    for i in 0..<adj.count {
+        if !visited[i] {
+            dfs(here: i)
+        }
+    }
+}
+```
