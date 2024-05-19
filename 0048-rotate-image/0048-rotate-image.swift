@@ -11,11 +11,5 @@ class Solution {
         }
         result.reverse()
         matrix = result
-        // for i in stride(from: matrix.count - 1, to: -1, by: -1) {
-        //     for j in stride(from: 0, to: matrix.count, by: 1) {
-        //         print(matrix[i][j], terminator: " ")
-        //     }
-        //     print()
-        // }
     }
 }
