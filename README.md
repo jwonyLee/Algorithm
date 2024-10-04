@@ -182,3 +182,10 @@ for match in matchs {
 
 print(string) // 컴퓨터는 메모리를 갖고 있다.
 ```
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/jwonyLee/Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+<!---LeetCode Topics End-->
