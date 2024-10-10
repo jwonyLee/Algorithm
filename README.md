@@ -188,8 +188,13 @@ print(string) // 컴퓨터는 메모리를 갖고 있다.
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jwonyLee/Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/jwonyLee/Algorithm/tree/master/1833-find-the-highest-altitude) |
 ## String
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/jwonyLee/Algorithm/tree/master/3379-score-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/jwonyLee/Algorithm/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
