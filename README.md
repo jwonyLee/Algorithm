@@ -187,6 +187,7 @@ print(string) // 컴퓨터는 메모리를 갖고 있다.
 ## Array
 |  |
 | ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/jwonyLee/Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jwonyLee/Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/jwonyLee/Algorithm/tree/master/1833-find-the-highest-altitude) |
 ## String
@@ -197,4 +198,8 @@ print(string) // 컴퓨터는 메모리를 갖고 있다.
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/jwonyLee/Algorithm/tree/master/1833-find-the-highest-altitude) |
+## Hash Table
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/jwonyLee/Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
