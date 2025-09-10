@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jwonyLee/Algorithm/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/jwonyLee/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/jwonyLee/Algorithm/tree/master/0682-baseball-game) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jwonyLee/Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jwonyLee/Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/jwonyLee/Algorithm/tree/master/1833-find-the-highest-altitude) |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [2752-sum-multiples](https://github.com/jwonyLee/Algorithm/tree/master/2752-sum-multiples) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/jwonyLee/Algorithm/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/jwonyLee/Algorithm/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
